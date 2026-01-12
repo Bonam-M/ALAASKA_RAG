@@ -1,0 +1,7 @@
+__pycache__/
+.env
+aa_rag_env/*
+hw_ds442/*
+hw_ds442_extract/*
+ds442_db/*
+ds442_vdb/*
